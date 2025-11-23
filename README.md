@@ -3,7 +3,7 @@
 👋 Olá! Eu sou o **Bruno Duarte**, formado em Ciência da Computação pela Universidade Estadual do Ceará (UECE), residente em Fortaleza, Ceará, Brasil.
 
 ## 🧑‍💻 Sobre mim  
-Atuo como desenvolvedor web desde 2020, com foco em back-end em .NET a partir de fins de 2021, incluindo manutenção de APIs, microserviços e integração com Kafka. Nos últimos meses, tenho trabalhado também com aplicações mobile React Native, Clean Architecture e internacionalização (i18n) de apps de finanças pessoais.
+Atuo como desenvolvedor web desde 2020, com foco em back-end em .NET a partir de fins de 2021, incluindo manutenção de APIs, microserviços e integração com Kafka. Nos últimos meses, tenho trabalhado também com aplicações mobile React Native, Clean Architecture e internacionalização (i18n) de apps de finanças.
 
 ## 🔧 Tecnologias & áreas de atuação  
 - Linguagens e plataformas: C#, .NET (REST, DDD, microservices), Python, TypeScript, JavaScript, React Native  
@@ -15,15 +15,14 @@ Atuo como desenvolvedor web desde 2020, com foco em back-end em .NET a partir de
 ## 📁 Projetos em destaque  
 - **Clinica**: sistema completo de clínica construído em Django  
 - **Estrutura-de-dados**: implementação de estruturas de dados em C++  
-- **TComp**: programa em Python que, dada uma Máquina de Turing padrão, gera a sequência de configurações durante a execução de uma cadeia  
 - **PlantManager**: aplicativo em React Native + TypeScript para gerenciamento de plantas  
 - **MoneyTracker_MVP**: backend em .NET 8 para controle de transações e categorias, com microserviço Kafka integrado  
 
-## 📫 Como me encontrar  
-- GitHub: [@bruno-duarte](https://github.com/bruno-duarte)  
-- Localização: Fortaleza, Ceará, Brasil  
-- Universidade: UECE  
+## 📫 Como me encontrar
+- **LinkedIn:** [https://www.linkedin.com/in/francisco-bruno-duarte-castro](https://www.linkedin.com/in/francisco-bruno-duarte-castro)  
+- **Localização:** Fortaleza — Ceará, Brasil  
+- **Formação:** Ciência da Computação — UECE  
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios, abrir issues ou colaborar em projetos que façam sentido. 🚀  
+Obrigado por visitar meu perfil! Explore meus repositórios, contribua, envie ideias e fique à vontade para conectar-se! 🚀  
